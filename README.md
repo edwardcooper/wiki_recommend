@@ -1,5 +1,7 @@
 # watchtower
-A data challenge from watchtower
+A data challenge from watchtower.
+
+A google slide describing the project is [here](https://docs.google.com/presentation/d/1KZ4o9n1m4-rQHxHemg2g3RrsXwNy8LgiL7nP21WG_nk/edit?usp=sharing)
 
 # Descriptions
 
