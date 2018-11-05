@@ -16,3 +16,14 @@ Thank you for your interest in our Data Scientist role at Watchtower (www.watcht
 3. Create a visualization of your results. 
 
 4. Please share your work with us (e.g. Jupyter notebook, etc.) with a brief write-up of your results.
+
+# Results
+
+The data folder contains the raw data scraped from the Wikipedia with the Physics category. 
+
+The nlp_clean folder contain the data after data cleanining, and the notebook for visualizing the text data. 
+
+The model folder contains the notebook to compare different models and vectorizers in terms of performance. 
+
+The graph_vis folder contains the notebook to generate the network graph for the articles. 
+
