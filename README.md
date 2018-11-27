@@ -1,11 +1,9 @@
-# watchtower
-A data challenge from watchtower.
+# Introduction
+A data challenge to scrape and recommend wiki articles for a subcategory like medicine or physics.
 
 A google slide describing the project is [here](https://docs.google.com/presentation/d/1KZ4o9n1m4-rQHxHemg2g3RrsXwNy8LgiL7nP21WG_nk/edit?usp=sharing)
 
-# Descriptions
-
-Thank you for your interest in our Data Scientist role at Watchtower (www.watchtower.ai). The following project is designed to help us gain familiarity with your data science expertise. We want to be mindful of your time so please see how much of the project you can complete in roughly 3 hours of work. Please plan to send your results to us in 72 hours, and don’t hesitate to reach out to us if you have any questions - we are happy to help. 
+Please see how much of the project you can complete in roughly 3 hours of work. Please plan to send your results to us in 72 hours, and don’t hesitate to reach out to us if you have any questions. Always send emails to ask questions if you have any and do not guess. 
 
 # Task
 
