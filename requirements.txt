@@ -83,7 +83,7 @@ python-editor==1.0.3
 python-oauth2==1.0.1
 pytz==2018.5
 PyWavelets==1.0.0
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.20.0
 rpy2==2.8.5
