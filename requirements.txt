@@ -43,7 +43,7 @@ jupyterlab==0.34.0
 jupyterlab-launcher==0.13.1
 kiwisolver==1.0.1
 llvmlite==0.23.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 matplotlib==2.2.3
 mistune==0.8.3
